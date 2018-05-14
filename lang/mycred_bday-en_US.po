@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: myCRED Birthdays\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-10 01:25+0000\n"
+"PO-Revision-Date: 2017-03-10 01:25+0000\n"
+"Last-Translator: Gabriel Merovingi <gabriel.s@merovingi.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en-US\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: mycred-birthdays.php:167
+msgid "%plural% for Birthdays"
+msgstr ""
+
+#: mycred-birthdays.php:168
+msgid "Reward users with points on their birthday"
+msgstr ""
+
+#: mycred-birthdays.php:184
+msgid "Birthday"
+msgstr ""
+
+#: mycred-birthdays.php:244
+msgid "More information about this plugin"
+msgstr ""
+
+#: mycred-birthdays.php:246
+msgid "View details"
+msgstr ""
+
+#: mycred-birthdays.php:479
+msgid "Date of Birth Location"
+msgstr ""
+
+#: mycred-birthdays.php:484
+msgid "BuddyPress Profile Field"
+msgstr ""
+
+#: mycred-birthdays.php:487
+msgid "Custom WordPress User Meta"
+msgstr ""
+
+#: mycred-birthdays.php:493
+msgid "Field Name / ID"
+msgstr ""
+
+#: mycred-birthdays.php:495
+msgid ""
+"The BuddyPress field name or the custom user meta key, that identifies where "
+"the users date of birth is stored. Must be exact!"
+msgstr ""
+
+#. Name of the plugin
+msgid "myCRED Birthdays"
+msgstr ""
+
+#. Description of the plugin
+msgid "Reward your users with points on their birthdays."
+msgstr ""
